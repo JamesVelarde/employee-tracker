@@ -35,5 +35,9 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 [Link to Demo](https://drive.google.com/file/d/15vUfX6gNYmZnFTEoX2wqU5Wi5VFLduFd/view?usp=sharing)  
 
+## Screenshot
+
+![screenshot](https://github.com/JamesVelarde/employee-tracker/blob/8764f1bfcf41c028224ecbfa71714d6c4ad70f16/assets/Employee-tracker.jpg)
+
 ## Contact
 [James Velarde on GitHub](https://github.com/JamesVelarde)
